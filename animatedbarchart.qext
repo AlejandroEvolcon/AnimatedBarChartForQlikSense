@@ -1,0 +1,9 @@
+{
+	"name" : "Animated Bar Chart",
+	"description" : "Animated Bar Chart Extension",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "icon.png",
+	"author": "alejandro.morales@evolcon.com"
+}
